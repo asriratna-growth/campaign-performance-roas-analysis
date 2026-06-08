@@ -113,6 +113,18 @@ This project was created for educational and portfolio purposes only. All rights
 * Search delivered competitive ROAS while requiring lower spend
 * Channel performance remained relatively balanced across marketing channels
 
+## Skills Demonstrated
+
+- SQL Data Analysis
+- Data Validation & Auditing
+- Marketing Analytics
+- ROAS Analysis
+- Funnel Analysis
+- KPI Development
+- Data Modeling in BigQuery
+- Dashboard Development in Looker Studio
+- Business Insight Generation
+
 ## Repository Structure
 
 campaign-performance-roas-analysis
@@ -133,6 +145,10 @@ campaign-performance-roas-analysis
 
 ## Author
 
-Asri Ratna
+**Asri Ratna**
 
 Marketing Analytics | Growth Marketing | Digital Marketing | Data Analytics
+
+LinkedIn: [(https://www.linkedin.com/in/asriratna/)]
+
+GitHub: https://github.com/asriratna-growth
