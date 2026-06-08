@@ -1,6 +1,6 @@
 # Campaign Performance & ROAS Analysis
 
-Marketing campaign performance analysis project using SQL, Google BigQuery, and Looker Studio.
+Marketing Analytics project analyzing campaign performance, ROAS, and conversion funnels using SQL, BigQuery, and Looker Studio.
 
 ## Project Overview
 
@@ -23,6 +23,35 @@ The analysis aims to answer the following business questions:
 * SQL
 * Google BigQuery
 * Looker Studio
+
+## Dashboard Development
+
+### Page 1: Campaign Performance Overview
+
+* Total Spend
+* Total Revenue
+* Overall ROAS
+* Revenue by Channel
+* Spend by Channel
+* ROAS by Channel
+
+### Page 2: Campaign Funnel & Conversion Analysis
+
+* Marketing Funnel Performance
+* CTR Analysis
+* Lead Rate Analysis
+* Lead-to-Conversion Analysis
+* Customer Acquisition Cost (CPA)
+
+### Dashboard Preview
+
+#### Campaign Performance Overview
+
+![Campaign Performance Overview](Dashboard/campaign_performance_overview.jpg)
+
+#### Campaign Funnel & Conversion Analysis
+
+![Campaign Funnel & Conversion Analysis](Dashboard/campaign_funnel_conversion_analysis.jpg)
 
 ## Dataset
 
@@ -74,36 +103,6 @@ This project was created for educational and portfolio purposes only. All rights
 * Funnel Summary
 * Funnel Stage Summary
 
-## Dashboard Development
-
-### Page 1: Campaign Performance Overview
-
-* Total Spend
-* Total Revenue
-* Overall ROAS
-* Revenue by Channel
-* Spend by Channel
-* ROAS by Channel
-
-### Page 2: Campaign Funnel & Conversion Analysis
-
-* Marketing Funnel Performance
-* CTR Analysis
-* Lead Rate Analysis
-* Lead-to-Conversion Analysis
-* Customer Acquisition Cost (CPA)
-
-### Dashboard Preview
-
-#### Campaign Performance Overview
-
-![Campaign Performance Overview](Dashboard/campaign_performance_overview.jpg)
-
-#### Campaign Funnel & Conversion Analysis
-
-![Campaign Funnel & Conversion Analysis](Dashboard/campaign_funnel_conversion_analysis.jpg)
-
-
 ## Key Findings
 
 * Total marketing spend reached approximately $25.5M
@@ -119,10 +118,10 @@ This project was created for educational and portfolio purposes only. All rights
 - Data Validation & Auditing
 - Marketing Analytics
 - ROAS Analysis
-- Funnel Analysis
+- Marketing Funnel Analysis
 - KPI Development
 - Data Modeling in BigQuery
-- Dashboard Development in Looker Studio
+- Looker Studio Dashboard Development
 - Business Insight Generation
 
 ## Repository Structure
