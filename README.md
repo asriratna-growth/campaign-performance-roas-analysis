@@ -74,9 +74,9 @@ This project was created for educational and portfolio purposes only. All rights
 * Funnel Summary
 * Funnel Stage Summary
 
-### Dashboard Development
+## Dashboard Development
 
-#### Page 1: Campaign Performance Overview
+### Page 1: Campaign Performance Overview
 
 * Total Spend
 * Total Revenue
@@ -85,13 +85,24 @@ This project was created for educational and portfolio purposes only. All rights
 * Spend by Channel
 * ROAS by Channel
 
-#### Page 2: Campaign Funnel & Conversion Analysis
+### Page 2: Campaign Funnel & Conversion Analysis
 
 * Marketing Funnel Performance
 * CTR Analysis
 * Lead Rate Analysis
 * Lead-to-Conversion Analysis
 * Customer Acquisition Cost (CPA)
+
+### Dashboard Preview
+
+#### Campaign Performance Overview
+
+![Campaign Performance Overview](Dashboard/campaign_performance_overview.jpg)
+
+#### Campaign Funnel & Conversion Analysis
+
+![Campaign Funnel & Conversion Analysis](Dashboard/campaign_funnel_conversion_analysis.jpg)
+
 
 ## Key Findings
 
