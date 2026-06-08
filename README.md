@@ -1,6 +1,6 @@
 # Campaign Performance & ROAS Analysis
 
-Marketing Analytics project analyzing campaign performance, ROAS, and conversion funnels using SQL, BigQuery, and Looker Studio.
+Marketing Analytics Portfolio Project analyzing campaign performance, ROAS, and conversion funnels using SQL, Google BigQuery, and Looker Studio.
 
 ## Project Overview
 
@@ -44,6 +44,11 @@ The analysis aims to answer the following business questions:
 * Customer Acquisition Cost (CPA)
 
 ### Dashboard Preview
+
+The dashboard was built using Looker Studio and consists of two pages:
+
+- Campaign Performance Overview
+- Campaign Funnel & Conversion Analysis
 
 #### Campaign Performance Overview
 
