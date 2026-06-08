@@ -149,6 +149,6 @@ campaign-performance-roas-analysis
 
 Marketing Analytics | Growth Marketing | Digital Marketing | Data Analytics
 
-LinkedIn: [(https://www.linkedin.com/in/asriratna/)]
+LinkedIn: https://www.linkedin.com/in/asriratna/ 
 
 GitHub: https://github.com/asriratna-growth
