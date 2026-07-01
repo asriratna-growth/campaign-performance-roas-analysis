@@ -1,4 +1,4 @@
-![Project Banner](Project%2%Banner.png)
+![Project Banner](Project2Banner.png)
 
 # Campaign Performance & ROAS Analysis
 
