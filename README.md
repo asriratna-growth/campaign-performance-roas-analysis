@@ -1,4 +1,3 @@
-![Project Banner](Banner.png)
 
 # Campaign Performance & ROAS Analysis
 
