@@ -1,3 +1,5 @@
+![Project Banner](Banner.png)
+
 # Campaign Performance & ROAS Analysis
 
 Marketing Analytics Portfolio Project analyzing campaign performance, ROAS, and conversion funnels using SQL, Google BigQuery, and Looker Studio.
